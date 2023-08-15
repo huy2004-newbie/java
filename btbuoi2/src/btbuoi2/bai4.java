@@ -57,8 +57,8 @@ public class bai4 {
         	System.out.println("x="+x2);
         }
         else if(a1 == 0) {
-        	x1 = 0;
-        	x2 = 0;
+        	double x1 = 0;
+        	double x2 = 0;
         }	   
     }
  
