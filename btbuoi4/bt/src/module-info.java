@@ -4,5 +4,5 @@
 /**
  * 
  */
-module demo2 {
+module bt {
 }
